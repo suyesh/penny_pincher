@@ -1,6 +1,6 @@
 class CreateBankings < ActiveRecord::Migration[5.0]
   def change
-    create_table :assets do |t|
+    create_table :bankings do |t|
       t.decimal :total_value
       t.decimal :balance
       t.decimal :transfers
