@@ -20,6 +20,7 @@ gem 'bootstrap-sass'
 gem 'font-awesome-rails'
 gem 'simple_form'
 gem 'rails_12factor', group: :production
+gem 'sorcery'
 
 
 group :development, :test do
