@@ -1,0 +1,2 @@
+class SavingAccount < Banking
+end
